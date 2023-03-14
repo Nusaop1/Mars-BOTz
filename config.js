@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url'
 global.owner = [
   ['0'],
   ['0'],
-  ['6283131214121', 'Owner Bot', false]
+  ['6282192834347', 'Owner Bot', false]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -32,8 +32,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Sticker By'
-global.author = 'Kepinganteng'
+global.packname = 'Sticker By nusa'
+global.author = 'nusabotz'
 
 global.wm = 'WhatsApp Bot Simple By Kevin afsar'
 global.eror = 'Maaf Server Sedang Eror!'
